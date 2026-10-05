@@ -136,16 +136,18 @@
             app:layout_constraintTop_toBottomOf="@id/dividerCard">
 
             <!-- Doctor Circle Photo -->
-            <ImageView
+            <com.google.android.material.imageview.ShapeableImageView
                 android:id="@+id/imgDoctorAvatar"
                 android:layout_width="52dp"
                 android:layout_height="52dp"
                 android:contentDescription="@string/doctor_name"
+                android:scaleType="centerCrop"
                 android:src="@drawable/ic_user_placeholder"
                 app:layout_constraintBottom_toBottomOf="parent"
                 app:layout_constraintEnd_toEndOf="parent"
                 app:layout_constraintStart_toStartOf="parent"
-                app:layout_constraintTop_toTopOf="parent" />
+                app:layout_constraintTop_toTopOf="parent"
+                app:shapeAppearanceOverlay="@style/CircleImage" />
 
             <!-- Video Call Green Badge -->
             <ImageView

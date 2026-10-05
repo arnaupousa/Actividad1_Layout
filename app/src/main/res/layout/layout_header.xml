@@ -9,17 +9,20 @@
     android:paddingEnd="24dp"
     android:paddingBottom="24dp">
 
-    <!-- User Profile Image -->
-    <ImageView
+    <!-- User Profile Image (Circular) -->
+
+    <!-- Notification Bell Button -->
+    <com.google.android.material.imageview.ShapeableImageView
         android:id="@+id/imgProfile"
         android:layout_width="44dp"
         android:layout_height="44dp"
         android:contentDescription="@string/cd_profile_avatar"
-        android:src="@drawable/ic_user_placeholder"
+        android:scaleType="centerCrop"
+        android:src="@drawable/kratos"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
+        app:layout_constraintTop_toTopOf="parent"
+        app:shapeAppearanceOverlay="@style/CircleImage" />
 
-    <!-- Notification Bell Button -->
     <ImageView
         android:id="@+id/btnNotification"
         android:layout_width="44dp"
@@ -37,8 +40,8 @@
         android:layout_width="190dp"
         android:layout_height="220dp"
         android:contentDescription="@string/cd_doctor_image"
-        android:scaleType="fitCenter"
-        android:src="@drawable/ic_user_placeholder"
+        android:scaleType="centerCrop"
+        android:src="@drawable/kratos"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintTop_toBottomOf="@id/btnNotification" />
