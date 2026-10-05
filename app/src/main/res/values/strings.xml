@@ -3,7 +3,7 @@
     <string name="app_name">Actividad1_Layout</string>
 
     <string name="welcome">¡Bienvenido!</string>
-    <string name="user_name">Kratos</string>
+    <string name="user_name">Dr. Kratos</string>
     <string name="how_is_it_going">¿Cómo va tu día hoy?</string>
     <string name="urgent_care">Urgencias</string>
 
@@ -17,7 +17,7 @@
     <string name="appointment_date_label">Fecha de la cita</string>
     <string name="appointment_time">Mié 20 Nov  •  8:00 - 8:30 AM</string>
 
-    <string name="doctor_name">Dr. Elva Ginon</string>
+    <string name="doctor_name">Dr. Kratos</string>
     <string name="doctor_specialty">Traumatología</string>
 
     <string name="cd_profile_avatar">Foto de perfil</string>
