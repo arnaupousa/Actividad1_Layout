@@ -2,4 +2,18 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+    <!-- App Specific Colors -->
+    <color name="header_gradient_start">#FFF0EA</color>
+    <color name="header_gradient_end">#FCDAD7</color>
+    <color name="urgent_orange">#FF9200</color>
+    <color name="text_primary">#1D2029</color>
+    <color name="text_secondary">#8A94A6</color>
+    <color name="primary_blue">#2F80ED</color>
+    <color name="nav_blue">#133B6A</color>
+    <color name="circle_bg">#F5F8FC</color>
+    <color name="circle_border">#EAEFF5</color>
+    <color name="card_border">#EDF1F7</color>
+    <color name="divider_color">#F0F3F7</color>
+    <color name="green_online">#4CD964</color>
 </resources>

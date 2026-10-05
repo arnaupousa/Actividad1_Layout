@@ -1,3 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Actividad1_Layout</string>
+
+    <string name="welcome">Welcome!</string>
+    <string name="user_name">Rajesh</string>
+    <string name="how_is_it_going">How is it going today?</string>
+    <string name="urgent_care">Urgent Care</string>
+
+    <string name="our_services">Our Services</string>
+    <string name="consultation">Consultation</string>
+    <string name="medicines">Medicines</string>
+    <string name="ambulance">Ambulance</string>
+
+    <string name="appointment">Appointment</string>
+    <string name="see_all">See All</string>
+    <string name="appointment_date_label">Appointment date</string>
+    <string name="appointment_time">Wed Nov 20  •  8:00 - 8:30 AM</string>
+
+    <string name="doctor_name">Dr. Prem Tiwari</string>
+    <string name="doctor_specialty">Orthopedic</string>
+
+    <string name="cd_profile_avatar">User Avatar</string>
+    <string name="cd_notification">Notification Bell</string>
+    <string name="cd_doctor_image">Doctor Image</string>
+    <string name="cd_urgent_icon">Urgent Icon</string>
+    <string name="cd_more_options">More Options</string>
+    <string name="cd_video_badge">Video Badge</string>
 </resources>
