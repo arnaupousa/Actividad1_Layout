@@ -26,4 +26,9 @@
     <string name="cd_urgent_icon">Icono de urgencias</string>
     <string name="cd_more_options">Más opciones</string>
     <string name="cd_video_badge">Insignia de videollamada</string>
+    <string name="cd_home">Inicio</string>
+    <string name="cd_documents">Documentos</string>
+    <string name="cd_add">Añadir</string>
+    <string name="cd_chat">Chat</string>
+    <string name="cd_profile">Perfil</string>
 </resources>

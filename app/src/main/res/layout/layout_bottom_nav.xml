@@ -30,7 +30,7 @@
                 android:layout_width="26dp"
                 android:layout_height="26dp"
                 android:layout_gravity="center"
-                android:contentDescription="@null"
+                android:contentDescription="@string/cd_home"
                 android:src="@drawable/ic_home" />
         </FrameLayout>
 
@@ -44,7 +44,7 @@
                 android:layout_width="26dp"
                 android:layout_height="26dp"
                 android:layout_gravity="center"
-                android:contentDescription="@null"
+                android:contentDescription="@string/cd_documents"
                 android:src="@drawable/ic_document" />
         </FrameLayout>
 
@@ -59,7 +59,7 @@
                 android:layout_height="52dp"
                 android:layout_gravity="center"
                 android:background="@drawable/bg_fab_circle"
-                android:contentDescription="@null"
+                android:contentDescription="@string/cd_add"
                 android:padding="12dp"
                 android:src="@drawable/ic_add" />
         </FrameLayout>
@@ -74,7 +74,7 @@
                 android:layout_width="26dp"
                 android:layout_height="26dp"
                 android:layout_gravity="center"
-                android:contentDescription="@null"
+                android:contentDescription="@string/cd_chat"
                 android:src="@drawable/ic_chat" />
         </FrameLayout>
 
@@ -88,7 +88,7 @@
                 android:layout_width="26dp"
                 android:layout_height="26dp"
                 android:layout_gravity="center"
-                android:contentDescription="@null"
+                android:contentDescription="@string/cd_profile"
                 android:src="@drawable/ic_profile" />
         </FrameLayout>
 
